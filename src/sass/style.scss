@@ -1,0 +1,33 @@
+@import "default/variable";
+@import "default/typography";
+@import "default/spacing";
+@import "default/general";
+@import "fonts.css";
+
+html {
+  cursor: url("/images/cursor-64.png"), auto;
+}
+
+a {
+  cursor: url('/images/cursor_chose.png'), pointer;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #232935;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #fec544;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #fdfeff;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #fec544;
+}
