@@ -3,6 +3,7 @@
 @import "default/spacing";
 @import "default/general";
 @import "fonts.css";
+@import "../components/Button/Button.scss";
 
 html {
   cursor: url("/images/cursor-64.png"), auto;
