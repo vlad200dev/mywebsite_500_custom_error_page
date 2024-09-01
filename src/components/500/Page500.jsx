@@ -10,8 +10,8 @@ const Page500 = () => {
         <div className="st-page-not-found st-flex-center text-center">
             <div className="container">
                 <h3>5<span>0</span>0</h3>
-                <h4>Website update is underway</h4>
-                <p>oops, you caught me updating my website.. Please try again later</p>
+                <h4>Website major update is underway</h4>
+                <p>oops, you caught me moving my website and all related infrastructure to Kubernetes.. Please try again later</p>
                 <div className="st-social-hero-info">
                     <button
                         className="st-btn st-style2 st-color1 st-size-large"
